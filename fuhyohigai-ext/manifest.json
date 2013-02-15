@@ -1,0 +1,22 @@
+{
+  "name": "fuhyohigai-ext",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Japanese FuhyoHigai Extension",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "jquery-1.9.1.min.js",
+        "core.js",
+        "langpack.js",
+        "utils.js",
+        "fuhyohigai.js",
+        "facebook.js"
+      ],
+      "run_at": "document_start"
+    }
+  ]
+}
