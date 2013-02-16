@@ -3,7 +3,7 @@ Japanese 'Fuhyohigai' extension for Google Chrome
 
 # 風評被害一覧
 * www.facebook.com
-    * s/いいね！/あ^～いいっすね/g
+    * s/いいね！/あ＾～いいっすね/g
 
 # なんか足んねぇよなぁ？
 * テストあくしろよ
