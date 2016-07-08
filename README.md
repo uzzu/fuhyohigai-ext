@@ -5,7 +5,7 @@ Japanese 'Fuhyohigai' extension for Google Chrome
 * [こ↑こ↓](https://chrome.google.com/webstore/detail/fuhyohigai-ext/bedamdfiddcmjabmjcdllboknpkfjcho)
 
 # 風評被害一覧
-* www.facebook.com
+* .\*.facebook.com
     * s/いいね！/あ＾～いいっすね/g
 
 # なんか足んねぇよなぁ？
