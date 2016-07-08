@@ -30,7 +30,7 @@
       , createTagContainsLike('h5', currentLike)
     ];
 
-    fuhyohigai.onashasu('www.facebook.com', function() {
+    fuhyohigai.onashasu('.*.facebook.com', function() {
       for (var i = 0; i < targets.length; i++) {
         var target = targets[i];
         $(target).each(function() {
